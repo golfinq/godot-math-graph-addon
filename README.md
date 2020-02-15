@@ -7,7 +7,7 @@ Create an folder called `addon` in the top of your projects directory then put t
 ## Functions
 - `createSimpleLine(...)` - takes a list of Vector2's and turns it into a line plot
 - `createScatterPlot(...)` - takes a list of Vector2's and turns it into a bunch of dots
-- `createLabels(...)` - takes an array of dictionaries of {"label": ..., "pos": Vector2(...), "color": Color...} and draws the strings on the graph
+- `createLabels(...)` - takes an array of dictionaries: {"label": ..., "pos": Vector2(...), "color": Color...} and draws the strings on the graph
 
 ## Signals
 The only signal is the `mouse_click` signal, which outputs where the mouse clicked in the graphs coordinate system.
