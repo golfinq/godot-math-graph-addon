@@ -14,8 +14,8 @@ The only signal is the `mouse_click` signal, which outputs where the mouse click
 
 ## Export
 - `plot_extent` takes 2 Vector2's:
- - The first Vector2 represents the bottom left corner of your coordinate system
- - The second Vector2 represents the top right corner of your coordinate system
+  - The first Vector2 represents the bottom left corner of your coordinate system
+  - The second Vector2 represents the top right corner of your coordinate system
 
 - `grid_spacing` is a Vector2 which specifies how big the ticks along each axis should be
 
