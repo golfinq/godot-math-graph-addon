@@ -4,7 +4,7 @@ A simple graph addon for godot to display math equations and scatter plots, call
 ## Install
 Create an folder called `addon` in the top of your projects directory then put these files into it.
 
-## Functions:
+## Functions
 - `createSimpleLine(...)` - takes a list of Vector2's and turns it into a line plot
 - `createScatterPlot(...)` - takes a list of Vector2's and turns it into a bunch of dots
 - `createLabels(...)` - takes an array of dictionaries of {"label": ..., "pos": Vector2(...), "color": Color...} and draws the strings on the graph
@@ -12,7 +12,7 @@ Create an folder called `addon` in the top of your projects directory then put t
 ## Signals
 The only signal is the `mouse_click` signal, which outputs where the mouse clicked in the graphs coordinate system.
 
-## Export
+## Exports
 - `plot_extent` takes 2 Vector2's:
   - The first Vector2 represents the bottom left corner of your coordinate system
   - The second Vector2 represents the top right corner of your coordinate system
