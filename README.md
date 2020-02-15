@@ -1,4 +1,4 @@
-# Math Plot addon
+# Godot Math Plot addon
 A simple graph addon for godot to display math equations and scatter plots, called `MathPlot`
 
 ## Install
