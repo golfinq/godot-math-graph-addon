@@ -22,7 +22,7 @@ The only signal is the `mouse_click` signal, which outputs where the mouse click
 - `spline_length` governs how "smooth" your line plots will be, this is mostly set by eye
 
 ## Heads Up
-Don't forget to call update(), no changes will be drawn until done so
+Don't forget to call `update()`, no changes will be drawn until done so
 
 ### Thanks
 [Big thanks to  Dlean Jeans for the SmoothPath addon](https://godotengine.org/qa/32506/how-to-draw-a-curve-in-2d)
