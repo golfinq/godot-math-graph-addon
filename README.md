@@ -17,4 +17,5 @@ Don't forget to call update(), no changes will be drawn until done so
 
 ### Thanks
 [Big thanks to  Dlean Jeans for the SmoothPath addon](https://godotengine.org/qa/32506/how-to-draw-a-curve-in-2d)
+
 [Thanks to maciek134 for the rangef function as well](https://github.com/godotengine/godot/issues/4164#issuecomment-488754325)
